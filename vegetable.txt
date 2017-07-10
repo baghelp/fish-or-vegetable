@@ -1,0 +1,230 @@
+229
+Amaranth, Amaranthus cruentus
+Arugula Eruca, sativa
+Beet  Beta, vulgaris vulgaris
+Bok choy, Brassica rapa (chinensis)
+Borage greens, Borago officinalis
+Broccoli, Brassica oleracea
+Brussels sprouts, Brassica oleracea (gemmifera)
+Cabbage, Brassica oleracea (capitata)
+Catsear, Hypochaeris radicata
+Celery, Apium graveolens
+Celtuce, Lactuca sativa (asparagina)
+Chaya, Cnidoscolus aconitifolius aconitifolius
+Chickweed, Stellaria
+Chicory, Cichorium intybus
+Chinese mallow, Malva verticillata
+Chrysanthemum, Chrysanthemum coronarium
+Collard greens, Brassica oleracea
+Common purslane, Portulaca oleracea
+Corn salad, Valerianella locusta
+Cress, Lepidium sativum
+Dandelion, Taraxacum officinale
+Dill, Anethum graveolens
+Endive, Cichorium endivia
+Fat hen, Chenopodium album
+Fiddlehead, Pteridium aquilinum
+Athyrium, esculentum
+Fluted pumpkin, Telfairia occidentalis
+Garden rocket, Eruca sativa
+Golden samphire, Inula crithmoides
+Good King Henry, Chenopodium bonus-henricus
+Grape, Vitis
+Greater plantain, Plantago major
+Kai-lan, Brassica rapa (alboglabra)
+Kale, Brassica oleracea (acephala)
+Komatsuna, Brassica rapa (pervidis / komatsuna)
+Kuka, Adansonia
+Lagos bologi, Talinum fruticosum
+Lamb's lettuce, Valerianella locusta
+Lamb's quarters, Chenopodium album
+Land cress, Barbarea verna
+Lettuce, Lactuca sativa
+Lizard's tail, Houttuynia cordata
+Malabar spinach, Basella alba
+Melokhia, Corchorus olitorius/Corchorus capsularis
+Miner's lettuce, Claytonia perfoliata
+Mizuna greens, Brassica rapa (nipposinica)
+Mustard, Sinapis alba
+Napa cabbage, Brassica rapa (pekinensis)
+New Zealand Spinach, Tetragonia tetragonioides
+Orache, Atriplex hortensis
+Pak choy, Brassica rapa (chinensis)
+Paracress, Acmella oleracea
+Pea, Pisum sativum
+Poke, Phytolacca americana
+Radicchio, Cichorium intybus
+Rapini, Brassica rapa rapa
+Samphire, Crithmum maritimum
+Sculpit / Stridolo, Silene inflata
+Sea beet, Beta vulgaris maritima
+Sea kale, Crambe maritima
+Sierra Leone bologi, Crassocephalum
+Soko, Celosia argentea
+Sorrel, Rumex acetosa
+Sour cabbage, Brassica oleracea
+Spinach, Spinacia oleracea
+Summer purslane, Portulaca oleracea
+Swiss chard, Beta vulgaris cicla (flavescens)
+Tatsoi, Brassica rapa (rosularis)
+Turnip greens, Brassica rapa (rapifera)
+Watercress, Nasturtium officinale
+Water spinach, Ipomoea aquatica
+Wheatgrass, Triticum aestivum
+Yarrow, Achillea millefolium
+Yao choy, Brassica napus
+Avocado, Persea americana
+Bell pepper, Capsicum annuum
+Bitter melon, Momordica charantia
+Chayote, Sechium edule
+Cucumber, Cucumis sativus
+Ivy gourd, Coccinia grandis
+Eggplant, Solanum melongena
+Aubergine, Solanum melongena
+Brinjal, Solanum melongena
+Luffa Luffa, cylindrica
+Olive fruit, Olea europaea
+Pumpkin, Cucurbita
+Squash, Cucurbita
+Sweet pepper, Capsicum annuum (grossum)
+Tinda, Praecitrullus fistulosus
+Tomatillo, Physalis philadelphica
+Tomato, Solanum lycopersicum
+Vanilla, Vanilla
+West Indian gherkin, Cucumis anguria
+Winter melon, Benincasa hispida
+Zucchini, pepo
+Courgette, pepo
+Marrow Cucurbita, pepo
+Artichoke, Cynara cardunculus / scolymus
+Broccoli, Brassica oleracea
+Broccolini, Brassica oleracea
+Caper, Capparis spinosa
+Cauliflower, Brassica oleracea
+Daylily, Hemerocallis fulva
+Courgette, Cucurbita
+American groundnut,  Apios americana
+Azuki bean, Vigna angularis
+Black-eyed pea, Vigna unguiculata unguiculata
+Chickpea, Cicer arietinum
+Common bean, Phaseolus vulgaris
+Drumstick, Moringa oleifera
+Dolichos bean, Lablab purpureus
+Fava bean, Vicia faba
+Garbanzo, Cicer arietinum
+Green bean, Phaseolus vulgaris
+Guar, Cyamopsis tetragonoloba
+Horse gram, Macrotyloma uniflorum
+Indian pea, Lathyrus sativus
+Lentil, Lens culinaris
+Lima bean, Phaseolus lunatus
+Moth bean, Vigna acontifolia
+Mung bean, Vigna radiata
+Okra, Abelmoschus esculentus
+Pea, Pisum sativum
+Peanut, Arachis hypogaea
+Pigeon pea,  Cajanus cajan
+Ricebean, Vigna umbellata
+Runner bean, Phaseolus coccineus
+Snap pea, Pisum sativum (macrocarpon)
+sugarsnap, Pisum sativum (macrocarpon)
+mangetout, Pisum sativum (macrocarpon)
+Snow pea, Pisum sativum (saccharatum)
+Soybean, Glycine max
+Tarwi, Lupinus mutabilis
+Tarhui, Lupinus mutabilis
+Chocho, Lupinus mutabilis
+Tepary bean, Phaseolus acutifolius
+Urad bean, Vigna mungo
+Velvet bean, Mucuna pruriens
+Winged bean, Psophocarpus tetragonolobus
+Yardlong bean, Vigna unguiculata (sesquipedalis)
+Asparagus, Asparagus officinalis
+Cardoon, Cynara cardunculus
+Celeriac, Apium graveolens (rapaceum)
+Celery, Apium graveolens
+Chives, Allium schoenoprasum
+Elephant garlic, Allium ampeloprasum (ampeloprasum)
+Florence fennel, Foeniculum vulgare (dulce)
+Garlic, Allium sativum
+Kohlrabi, Brassica oleracea (gongylodes)
+Kurrat, Allium ampeloprasum (kurrat)
+Lemongrass, Cymbopogon citratus
+Leek, Allium porrum
+Lotus root, Nelumbo nucifera
+Nopal, Opuntia ficus-indica
+Onion, Allium cepa
+Pearl onion, Allium ampeloprasum (sectivum)
+Potato onion,  Allium cepa (aggregatum)
+Prussian asparagus, Ornithogalum pyrenaicum
+Spring onion, Allium wakegi
+Scallion, Allium wakegi
+Shallot, Allium cepa (aggregatum)
+Tree onion, Allium  proliferum
+Welsh onion, Allium fistulosum
+Wild leek, Allium tricoccum
+Ahipa, Pachyrhizus ahipa
+Arracacha, Arracacia xanthorrhiza
+Bamboo shoot, Bambusa vulgaris
+Bamboo shoot, Phyllostachys edulis
+Beetroot, Beta vulgaris vulgaris
+Burdock, Arctium lappa
+Broadleaf arrowhead, Sagittaria latifolia
+Camas, Camassia
+Canna, Canna
+Carrot, Daucus carota
+Cassava, Manihot esculenta
+Chinese artichoke, Stachys affinis
+Daikon, Raphanus sativus (longipinnatus)
+Earthnut pea, Lathyrus tuberosus
+Elephant foot yam, Amorphophallus paeoniifolius
+Ensete, Ensete ventricosum
+Galangal, Alpinia galanga
+Ginger, Zingiber officinale
+Hamburg parsley, Petroselinum crispum tuberosum
+Horseradish, Armoracia rusticana
+Jerusalem artichoke, Helianthus tuberosus
+Jícam, Pachyrhizus erosus
+Mashua, Tropaeolum tuberosum
+Parsnip, Pastinaca sativa
+Pignut, Conopodium majus
+Potato, Solanum tuberosum
+Prairie turnip, Psoralea esculenta
+Radish, Raphanus sativus
+Rutabaga, Brassica napus (napobrassica)
+Salsify, Tragopogon porrifolius
+Scorzonera, Scorzonera hispanica
+Skirret, Sium sisarum
+Swede, Brassica napus (napobrassica)
+Sweet potato, Ipomoea batatas
+Kumara, Ipomoea batatas
+Taro, Colocasia esculenta
+Ti, Cordyline fruticosa
+Tigernut, Cyperus esculentus
+Turmeric, Curcuma longa
+Turnip, Brassica rapa (rapifera)
+Ulluco, Ullucus tuberosus
+Wasabi, Wasabia japonica
+Water caltrop, Trapa natans
+Water caltrop, Trapa bicornis
+Water chestnut, Eleocharis dulcis
+Yacó,  Smallanthus sonchifolius
+Yam, Dioscorea[3]
+Aonori, Monostroma
+Aonori, Enteromorpha
+Arame, Eisenia bicyclis
+Carola, Callophyllis variegata
+Dabberlocks, Alaria esculenta
+Badderlocks, Alaria esculenta
+Dulse, Palmaria palmata
+Dillisk, Palmaria palmata
+Hijiki, Hizikia fusiformis
+Kombu, Laminaria japonica
+Laver, Porphyra
+Gim, Porphyra
+Mozuku, Cladosiphon okamuranus
+Nori, Porphyra
+Ogonori, Gracilaria
+Sea grape, Caulerpa
+Sea lettuce, Ulva lactuca
+Wakame, Undaria pinnatifida
