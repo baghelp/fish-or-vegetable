@@ -20,12 +20,9 @@ stupid = ["you're stupid!", "YOU\'RE TEARING ME APART, LISA!!!",
 
 foodGroup = randint(0,1)
 
-print "selected list is " + lists[foodGroup]
 f = open(lists[foodGroup], 'r')
-numLines = f.readline()
-#index = randint(1, numlines)
-index = 2
-print "index is " + str(index)
+numLines = int(f.readline())
+index = randint(1, numLines)
 for i in range(1, index):
   f.readline()
 
