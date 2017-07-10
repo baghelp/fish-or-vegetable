@@ -27,6 +27,7 @@ for i in range(1, index):
   f.readline()
 
 veshetable = f.readline().split(",")[0]
+f.close()
 answer = raw_input(veshetable.lower() + ": Fish or Vegetable???? (f/v)\n")
 if answer == 'f':
   if foodGroup == 0:
