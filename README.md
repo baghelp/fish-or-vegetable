@@ -4,6 +4,6 @@ a fish or a vegetable
 
 
 to download, git clone this repository, then move to the folder it cloned into,
-and run the program with "python vesherable.py"
+and run the program with "python veshetable.py"
 
 tested with python2.7, but not python3
